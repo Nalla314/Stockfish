@@ -12,6 +12,6 @@ button {
 pre {
   background: #eee;
   padding: 10px;
-  max-height: 300px;
+  max-height: 500px; /* antes era 300px */
   overflow-y: scroll;
 }
